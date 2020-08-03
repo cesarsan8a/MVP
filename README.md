@@ -1,3 +1,13 @@
+## Feedback from FB
+
+- diagram of your garden bed that you can put little icons on showing where you have your plants *
+- if you put plants next to each other that weren't friendly neighbours / compatibility
+- companion plant suggestions *
+- common pest and problems
+- soil requirements *
+- light and shade requirements *
+- similar to gardenate.com or growveg.com.au
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
