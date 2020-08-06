@@ -5,22 +5,17 @@
 	box-shadow: 5px 5px 15px 1px rgb(62, 31, 31);
 }
 
-.frame-outer {
-  display: flex;
-  flex: 1;
-	border: 10px solid #a05218;
-}
-
 .patch {
   display: grid;
-  /* width: 200px;
-  grid-template-columns: repeat(100, 1fr);
-  grid-template-rows: repeat(100, 1fr); */
   flex: 1;
 	background: #569d36;
 	border: 3px solid #f7ecec;
 }
 
-.square {
-  border: solid 1px red;
+.cell-plant {
+  width: 75%;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%)
 }
