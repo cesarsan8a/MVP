@@ -1,0 +1,16 @@
+.plant-container {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border: solid 1px black;
+}
+
+.plant-icon {
+  width: 75%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
