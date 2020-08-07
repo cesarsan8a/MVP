@@ -2,3 +2,8 @@
   max-width: 960px;
   margin: 0 auto;
 }
+
+.body {
+  margin-top: 5%;
+  margin-bottom: 10%;
+}

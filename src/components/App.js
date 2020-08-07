@@ -32,7 +32,7 @@ function App() {
 
       <br/>
 
-      <div>
+      <div className="body">
         <DndProvider backend={HTML5Backend}>
           <VeggiePatch />
         </DndProvider>

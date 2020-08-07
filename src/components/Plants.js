@@ -1,16 +1,17 @@
 import React from 'react';
 
-
 import { ItemTypes } from '../utils/items';
 import { useDrag } from 'react-dnd';
 
 function Plants (props) {
+
+  //Dnd drag specs
   const [{ isDragging }, drag] = useDrag({
     item: {
-      type: ItemTypes.PLANT,
-      plant: props.plant,
+      type: ItemTypes.PLANT, // setting the item type
+      plant: props.plant, // additional props
     },
-    collect: monitor => ({
+    collect: monitor => ({ // collector function, what happens when it's being dragged
       isDragging: !!monitor.isDragging()
     })
   });
