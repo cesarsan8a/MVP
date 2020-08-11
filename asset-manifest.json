@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cesarsan8a/MVP/static/css/main.bcf4141c.chunk.css",
+    "main.js": "/cesarsan8a/MVP/static/js/main.ea4500ce.chunk.js",
+    "main.js.map": "/cesarsan8a/MVP/static/js/main.ea4500ce.chunk.js.map",
+    "runtime-main.js": "/cesarsan8a/MVP/static/js/runtime-main.36be7a0b.js",
+    "runtime-main.js.map": "/cesarsan8a/MVP/static/js/runtime-main.36be7a0b.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/cesarsan8a/MVP/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.fb768d32.chunk.js": "/cesarsan8a/MVP/static/js/2.fb768d32.chunk.js",
+    "static/js/2.fb768d32.chunk.js.map": "/cesarsan8a/MVP/static/js/2.fb768d32.chunk.js.map",
+    "index.html": "/cesarsan8a/MVP/index.html",
+    "precache-manifest.135c51615aa62ff2695d64c3ae3ee7c3.js": "/cesarsan8a/MVP/precache-manifest.135c51615aa62ff2695d64c3ae3ee7c3.js",
+    "service-worker.js": "/cesarsan8a/MVP/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/cesarsan8a/MVP/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.bcf4141c.chunk.css.map": "/cesarsan8a/MVP/static/css/main.bcf4141c.chunk.css.map",
+    "static/js/2.fb768d32.chunk.js.LICENSE.txt": "/cesarsan8a/MVP/static/js/2.fb768d32.chunk.js.LICENSE.txt",
+    "static/media/chilli.png": "/cesarsan8a/MVP/static/media/chilli.58fe641d.png",
+    "static/media/corn.png": "/cesarsan8a/MVP/static/media/corn.cbf6aadb.png",
+    "static/media/leaf.png": "/cesarsan8a/MVP/static/media/leaf.b2482830.png",
+    "static/media/rhubarb.png": "/cesarsan8a/MVP/static/media/rhubarb.77aa9670.png",
+    "static/media/rural.svg": "/cesarsan8a/MVP/static/media/rural.0044b5c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36be7a0b.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.fb768d32.chunk.js",
+    "static/css/main.bcf4141c.chunk.css",
+    "static/js/main.ea4500ce.chunk.js"
+  ]
+}
