@@ -17,9 +17,9 @@ function Plants (props) {
   });
 
   return (
-      <div className="plant-container" ref={drag} style={{opacity: isDragging ? '0.5' : '1'}}>
-        <img src={props.plant} className="plant-icon" />
-      </div>
+    <div className="plant-container" ref={drag} style={{opacity: isDragging ? '0.5' : '1'}}>
+      <img src={props.plant} className="plant-icon" />
+    </div>
   );
 }
 
